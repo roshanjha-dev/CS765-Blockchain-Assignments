@@ -1,0 +1,204 @@
+Genesis Block Verification:
+Honest Genesis: 7bc686
+Malicious Genesis: 7bc686
+Blocks are the same: True
+
+Peer Information:
+Peer 0: Role=Honest, Type=low CPU, Speed=fast
+Peer 1: Role=Honest, Type=low CPU, Speed=fast
+Peer 2: Role=Honest, Type=low CPU, Speed=fast
+Peer 3: Role=Honest, Type=low CPU, Speed=fast
+Peer 4: Role=Honest, Type=low CPU, Speed=fast
+Peer 5: Role=Honest, Type=low CPU, Speed=fast
+Peer 6: Role=Honest, Type=low CPU, Speed=fast
+Peer 7: Role=Honest, Type=low CPU, Speed=fast
+Peer 8: Role=Honest, Type=low CPU, Speed=fast
+Peer 9: Role=Honest, Type=low CPU, Speed=fast
+
+Network Connections:
+Peer 0 is connected to: [7, 2, 5, 3, 1, 4]
+Peer 1 is connected to: [8, 7, 2, 5, 0, 6]
+Peer 2 is connected to: [8, 7, 1, 0, 6, 4]
+Peer 3 is connected to: [8, 7, 9, 0, 4]
+Peer 4 is connected to: [3, 0, 2]
+Peer 5 is connected to: [1, 7, 0, 6]
+Peer 6 is connected to: [5, 1, 9, 2]
+Peer 7 is connected to: [2, 5, 9, 3, 1, 0]
+Peer 8 is connected to: [1, 3, 2]
+Peer 9 is connected to: [3, 7, 6]
+Peer 9 generated Tx(96e07d: peer 9 pays peer 2 100 BTC) sent to peers [3, 7, 6]
+Peer 6 generated Tx(8d623a: peer 6 pays peer 7 71 BTC) sent to peers [5, 1, 9, 2]
+Peer 9 generated Tx(e273a9: peer 9 pays peer 5 75 BTC) sent to peers [3, 7, 6]
+Peer 7 generated Tx(4a5eda: peer 7 pays peer 8 40 BTC) sent to peers [2, 5, 9, 3, 1, 0]
+Peer 5 generated Tx(3ef152: peer 5 pays peer 7 45 BTC) sent to peers [1, 7, 0, 6]
+Peer 3 mined Block 1, hash: d39186, previous: 7bc686
+Peer 9 mined Block 2, hash: 823f1b, previous: d39186
+Peer 6 mined Block 3, hash: 2962b7, previous: 823f1b
+Peer 8 generated Tx(925f31: peer 8 pays peer 1 33 BTC) sent to peers [1, 3, 2]
+Peer 4 generated Tx(d1b70d: peer 4 pays peer 7 8 BTC) sent to peers [3, 0, 2]
+Peer 7 mined Block 4, hash: 526042, previous: 2962b7
+Peer 2 generated Tx(fa2195: peer 2 pays peer 5 2 BTC) sent to peers [8, 7, 1, 0, 6, 4]
+Peer 4 mined Block 5, hash: 9b4b93, previous: 526042
+Peer 1 mined Block 6, hash: 2fd0f4, previous: 9b4b93
+Peer 5 generated Tx(9ebcae: peer 5 pays peer 8 44 BTC) sent to peers [1, 7, 0, 6]
+Peer 1 generated Tx(a40d10: peer 1 pays peer 0 66 BTC) sent to peers [8, 7, 2, 5, 0, 6]
+Peer 0 generated Tx(a0ea15: peer 0 pays peer 9 58 BTC) sent to peers [7, 2, 5, 3, 1, 4]
+Peer 9 mined Block 7, hash: 3d75ec, previous: 2fd0f4
+Peer 2 mined Block 8, hash: a9e203, previous: 3d75ec
+Peer 8 mined Block 9, hash: aa8666, previous: a9e203
+Peer 2 generated Tx(ae0920: peer 2 pays peer 6 20 BTC) sent to peers [8, 7, 1, 0, 6, 4]
+Peer 3 mined Block 10, hash: b1da78, previous: aa8666
+Peer 6 mined Block 11, hash: 9fe860, previous: b1da78
+Peer 1 generated Tx(3b95f9: peer 1 pays peer 7 33 BTC) sent to peers [8, 7, 2, 5, 0, 6]
+Peer 4 mined Block 12, hash: 84ec8a, previous: 9fe860
+Peer 0 generated Tx(a01144: peer 0 pays peer 9 33 BTC) sent to peers [7, 2, 5, 3, 1, 4]
+Peer 2 mined Block 13, hash: bf6dab, previous: 84ec8a
+Peer 6 generated Tx(b9e2d9: peer 6 pays peer 5 1 BTC) sent to peers [5, 1, 9, 2]
+Peer 5 mined Block 14, hash: f82e76, previous: bf6dab
+Peer 3 generated Tx(35d95e: peer 3 pays peer 0 10 BTC) sent to peers [8, 7, 9, 0, 4]
+Peer 0 mined Block 15, hash: e84561, previous: f82e76
+Peer 4 generated Tx(684449: peer 4 pays peer 0 68 BTC) sent to peers [3, 0, 2]
+Peer 8 generated Tx(0dd0e1: peer 8 pays peer 5 69 BTC) sent to peers [1, 3, 2]
+Peer 8 mined Block 16, hash: a2e992, previous: e84561
+Peer 7 generated Tx(d51e51: peer 7 pays peer 1 53 BTC) sent to peers [2, 5, 9, 3, 1, 0]
+Peer 3 generated Tx(e0080f: peer 3 pays peer 7 68 BTC) sent to peers [8, 7, 9, 0, 4]
+
+Simulation completed.
+
+Honest Blockchain:
+Chain length: 17
+
+Block 0, Miner: Genesis, Hash: 7bc686
+
+Block 1, Miner: 3, Hash: d39186
+  Tx(2e6bff: Coinbase - peer 3 mines 50 BTC)
+  Tx(96e07d: peer 9 pays peer 2 100 BTC)
+  Tx(8d623a: peer 6 pays peer 7 71 BTC)
+  Tx(4a5eda: peer 7 pays peer 8 40 BTC)
+  Tx(e273a9: peer 9 pays peer 5 75 BTC)
+
+Block 2, Miner: 9, Hash: 823f1b
+  Tx(989c3e: Coinbase - peer 9 mines 50 BTC)
+  Tx(8d623a: peer 6 pays peer 7 71 BTC)
+  Tx(4a5eda: peer 7 pays peer 8 40 BTC)
+  Tx(3ef152: peer 5 pays peer 7 45 BTC)
+
+Block 3, Miner: 6, Hash: 2962b7
+  Tx(1c7de3: Coinbase - peer 6 mines 50 BTC)
+  Tx(96e07d: peer 9 pays peer 2 100 BTC)
+  Tx(e273a9: peer 9 pays peer 5 75 BTC)
+  Tx(4a5eda: peer 7 pays peer 8 40 BTC)
+  Tx(3ef152: peer 5 pays peer 7 45 BTC)
+
+Block 4, Miner: 7, Hash: 526042
+  Tx(e94023: Coinbase - peer 7 mines 50 BTC)
+  Tx(96e07d: peer 9 pays peer 2 100 BTC)
+  Tx(8d623a: peer 6 pays peer 7 71 BTC)
+  Tx(e273a9: peer 9 pays peer 5 75 BTC)
+  Tx(3ef152: peer 5 pays peer 7 45 BTC)
+  Tx(925f31: peer 8 pays peer 1 33 BTC)
+
+Block 5, Miner: 4, Hash: 9b4b93
+  Tx(22e22c: Coinbase - peer 4 mines 50 BTC)
+  Tx(96e07d: peer 9 pays peer 2 100 BTC)
+  Tx(8d623a: peer 6 pays peer 7 71 BTC)
+  Tx(e273a9: peer 9 pays peer 5 75 BTC)
+  Tx(4a5eda: peer 7 pays peer 8 40 BTC)
+  Tx(3ef152: peer 5 pays peer 7 45 BTC)
+
+Block 6, Miner: 1, Hash: 2fd0f4
+  Tx(ceb9f9: Coinbase - peer 1 mines 50 BTC)
+  Tx(96e07d: peer 9 pays peer 2 100 BTC)
+  Tx(8d623a: peer 6 pays peer 7 71 BTC)
+  Tx(e273a9: peer 9 pays peer 5 75 BTC)
+  Tx(4a5eda: peer 7 pays peer 8 40 BTC)
+  Tx(3ef152: peer 5 pays peer 7 45 BTC)
+
+Block 7, Miner: 9, Hash: 3d75ec
+  Tx(a1aaa5: Coinbase - peer 9 mines 50 BTC)
+  Tx(925f31: peer 8 pays peer 1 33 BTC)
+  Tx(d1b70d: peer 4 pays peer 7 8 BTC)
+  Tx(fa2195: peer 2 pays peer 5 2 BTC)
+  Tx(a40d10: peer 1 pays peer 0 66 BTC)
+  Tx(9ebcae: peer 5 pays peer 8 44 BTC)
+
+Block 8, Miner: 2, Hash: a9e203
+  Tx(0ab441: Coinbase - peer 2 mines 50 BTC)
+  Tx(96e07d: peer 9 pays peer 2 100 BTC)
+  Tx(8d623a: peer 6 pays peer 7 71 BTC)
+  Tx(4a5eda: peer 7 pays peer 8 40 BTC)
+  Tx(e273a9: peer 9 pays peer 5 75 BTC)
+  Tx(3ef152: peer 5 pays peer 7 45 BTC)
+
+Block 9, Miner: 8, Hash: aa8666
+  Tx(6af4b1: Coinbase - peer 8 mines 50 BTC)
+  Tx(96e07d: peer 9 pays peer 2 100 BTC)
+  Tx(8d623a: peer 6 pays peer 7 71 BTC)
+  Tx(4a5eda: peer 7 pays peer 8 40 BTC)
+  Tx(e273a9: peer 9 pays peer 5 75 BTC)
+  Tx(3ef152: peer 5 pays peer 7 45 BTC)
+
+Block 10, Miner: 3, Hash: b1da78
+  Tx(0f6f7f: Coinbase - peer 3 mines 50 BTC)
+  Tx(3ef152: peer 5 pays peer 7 45 BTC)
+  Tx(925f31: peer 8 pays peer 1 33 BTC)
+  Tx(d1b70d: peer 4 pays peer 7 8 BTC)
+  Tx(fa2195: peer 2 pays peer 5 2 BTC)
+  Tx(9ebcae: peer 5 pays peer 8 44 BTC)
+
+Block 11, Miner: 6, Hash: 9fe860
+  Tx(3c56ca: Coinbase - peer 6 mines 50 BTC)
+  Tx(925f31: peer 8 pays peer 1 33 BTC)
+  Tx(d1b70d: peer 4 pays peer 7 8 BTC)
+  Tx(fa2195: peer 2 pays peer 5 2 BTC)
+  Tx(a40d10: peer 1 pays peer 0 66 BTC)
+  Tx(9ebcae: peer 5 pays peer 8 44 BTC)
+
+Block 12, Miner: 4, Hash: 84ec8a
+  Tx(2b268a: Coinbase - peer 4 mines 50 BTC)
+  Tx(9ebcae: peer 5 pays peer 8 44 BTC)
+  Tx(a40d10: peer 1 pays peer 0 66 BTC)
+  Tx(a0ea15: peer 0 pays peer 9 58 BTC)
+  Tx(ae0920: peer 2 pays peer 6 20 BTC)
+  Tx(3b95f9: peer 1 pays peer 7 33 BTC)
+
+Block 13, Miner: 2, Hash: bf6dab
+  Tx(c3a2bc: Coinbase - peer 2 mines 50 BTC)
+  Tx(3b95f9: peer 1 pays peer 7 33 BTC)
+  Tx(a01144: peer 0 pays peer 9 33 BTC)
+
+Block 14, Miner: 5, Hash: f82e76
+  Tx(5aefa4: Coinbase - peer 5 mines 50 BTC)
+  Tx(96e07d: peer 9 pays peer 2 100 BTC)
+  Tx(8d623a: peer 6 pays peer 7 71 BTC)
+  Tx(4a5eda: peer 7 pays peer 8 40 BTC)
+  Tx(e273a9: peer 9 pays peer 5 75 BTC)
+  Tx(925f31: peer 8 pays peer 1 33 BTC)
+
+Block 15, Miner: 0, Hash: e84561
+  Tx(c812c4: Coinbase - peer 0 mines 50 BTC)
+  Tx(96e07d: peer 9 pays peer 2 100 BTC)
+  Tx(8d623a: peer 6 pays peer 7 71 BTC)
+  Tx(4a5eda: peer 7 pays peer 8 40 BTC)
+  Tx(e273a9: peer 9 pays peer 5 75 BTC)
+  Tx(3ef152: peer 5 pays peer 7 45 BTC)
+
+Block 16, Miner: 8, Hash: a2e992
+  Tx(f37043: Coinbase - peer 8 mines 50 BTC)
+  Tx(ae0920: peer 2 pays peer 6 20 BTC)
+  Tx(3b95f9: peer 1 pays peer 7 33 BTC)
+  Tx(a01144: peer 0 pays peer 9 33 BTC)
+  Tx(b9e2d9: peer 6 pays peer 5 1 BTC)
+  Tx(35d95e: peer 3 pays peer 0 10 BTC)
+
+Malicious Private Blockchain:
+Chain length: 1
+
+Block 0, Miner: Genesis, Hash: 7bc686
+
+Results:
+Honest blocks mined: 16
+Malicious blocks mined: 0
+Malicious blocks percentage: 0.00%
+Malicious blocks in main chain: 0
+Malicious success rate: 0.00%

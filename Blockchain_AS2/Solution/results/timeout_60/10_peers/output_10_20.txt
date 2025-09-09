@@ -1,0 +1,161 @@
+Genesis Block Verification:
+Honest Genesis: ef3a3e
+Malicious Genesis: ef3a3e
+Blocks are the same: True
+Peer 8 has been selected as the ring master with hash power 2.0
+
+Peer Information:
+Peer 0: Role=Honest, Type=low CPU, Speed=fast
+Peer 1: Role=Honest, Type=low CPU, Speed=fast
+Peer 2: Role=Honest, Type=low CPU, Speed=fast
+Peer 3: Role=Honest, Type=low CPU, Speed=fast
+Peer 4: Role=Honest, Type=low CPU, Speed=fast
+Peer 5: Role=Honest, Type=low CPU, Speed=fast
+Peer 6: Role=Honest, Type=low CPU, Speed=fast
+Peer 7: Role=Honest, Type=low CPU, Speed=fast
+Peer 8: Role=Ring Master, Type=high CPU, Speed=fast
+Peer 9: Role=Malicious, Type=high CPU, Speed=fast
+
+Network Connections:
+Peer 0 is connected to: [8, 9, 5, 3, 1, 6]
+Peer 1 is connected to: [7, 2, 3, 0, 6, 4]
+Peer 2 is connected to: [8, 7, 9, 3, 1, 4]
+Peer 3 is connected to: [1, 0, 2]
+Peer 4 is connected to: [5, 9, 1, 2]
+Peer 5 is connected to: [8, 7, 9, 0, 6, 4]
+Peer 6 is connected to: [5, 1, 0]
+Peer 7 is connected to: [5, 1, 2]
+Peer 8 is connected to: [5, 0, 2]
+Peer 9 is connected to: [5, 4, 0, 2]
+Peer 8 generated Tx(aecf06: peer 8 pays peer 5 1 BTC) sent to peers [5, 0, 2]
+Peer 8 generated Tx(3b5a95: peer 8 pays peer 3 43 BTC) sent to peers [5, 0, 2]
+Peer 6 mined Block 1, hash: 886376, previous: ef3a3e
+Peer 8 generated Tx(c284ac: peer 8 pays peer 4 55 BTC) sent to peers [5, 0, 2]
+Peer 4 mined Block 2, hash: 5688c1, previous: 886376
+Peer 9 generated Tx(345910: peer 9 pays peer 7 93 BTC) sent to peers [5, 4, 0, 2]
+Peer 8 generated Tx(3b6d42: peer 8 pays peer 4 3 BTC) sent to peers [5, 0, 2]
+Peer 5 mined Block 3, hash: 2b55a0, previous: 5688c1
+Peer 2 mined Block 4, hash: 51c30f, previous: 2b55a0
+Peer 8 generated Tx(4df341: peer 8 pays peer 4 40 BTC) sent to peers [5, 0, 2]
+Peer 8 generated Tx(9dc2aa: peer 8 pays peer 5 76 BTC) sent to peers [5, 0, 2]
+Peer 8 generated Tx(af800c: peer 8 pays peer 7 91 BTC) sent to peers [5, 0, 2]
+Peer 8 generated Tx(482414: peer 8 pays peer 3 61 BTC) sent to peers [5, 0, 2]
+Peer 9 generated Tx(145739: peer 9 pays peer 1 20 BTC) sent to peers [5, 4, 0, 2]
+Ring master 8 mined Block 1 for private chain, hash: e93db1, previous: ef3a3e
+Peer 1 mined Block 5, hash: 360f06, previous: 51c30f
+Peer 8 generated Tx(853e79: peer 8 pays peer 7 8 BTC) sent to peers [5, 0, 2]
+Peer 6 generated Tx(fd7ab1: peer 6 pays peer 9 18 BTC) sent to peers [5, 1, 0]
+Peer 4 generated Tx(d0ff04: peer 4 pays peer 5 21 BTC) sent to peers [5, 9, 1, 2]
+Ring master 8 mined Block 2 for private chain, hash: fdfed1, previous: e93db1
+Peer 0 mined Block 6, hash: 623b6e, previous: 360f06
+Peer 8 generated Tx(b4eae1: peer 8 pays peer 2 63 BTC) sent to peers [5, 0, 2]
+Peer 0 generated Tx(aa7721: peer 0 pays peer 7 99 BTC) sent to peers [8, 9, 5, 3, 1, 6]
+Peer 7 generated Tx(77c8aa: peer 7 pays peer 6 46 BTC) sent to peers [5, 1, 2]
+Peer 1 generated Tx(ff200d: peer 1 pays peer 6 8 BTC) sent to peers [7, 2, 3, 0, 6, 4]
+Peer 7 mined Block 7, hash: 07d4b2, previous: 623b6e
+Peer 8 generated Tx(c8050f: peer 8 pays peer 9 1 BTC) sent to peers [5, 0, 2]
+Peer 3 generated Tx(e4fb13: peer 3 pays peer 5 66 BTC) sent to peers [1, 0, 2]
+Ring master 8 mined Block 3 for private chain, hash: 045ca5, previous: fdfed1
+Peer 8 generated Tx(8d7bc8: peer 8 pays peer 0 4 BTC) sent to peers [5, 0, 2]
+Peer 3 mined Block 8, hash: f52da4, previous: 07d4b2
+Peer 8 generated Tx(5db323: peer 8 pays peer 6 25 BTC) sent to peers [5, 0, 2]
+Peer 5 generated Tx(c3720d: peer 5 pays peer 1 59 BTC) sent to peers [8, 7, 9, 0, 6, 4]
+Peer 8 generated Tx(c2c2d0: peer 8 pays peer 1 20 BTC) sent to peers [5, 0, 2]
+Peer 8 generated Tx(3b151d: peer 8 pays peer 1 76 BTC) sent to peers [5, 0, 2]
+Peer 2 generated Tx(11d03b: peer 2 pays peer 3 93 BTC) sent to peers [8, 7, 9, 3, 1, 4]
+
+Simulation completed.
+
+Honest Blockchain:
+Chain length: 9
+
+Block 0, Miner: Genesis, Hash: ef3a3e
+
+Block 1, Miner: 6, Hash: 886376
+  Tx(637741: Coinbase - peer 6 mines 50 BTC)
+  Tx(aecf06: peer 8 pays peer 5 1 BTC)
+  Tx(3b5a95: peer 8 pays peer 3 43 BTC)
+
+Block 2, Miner: 4, Hash: 5688c1
+  Tx(a636e5: Coinbase - peer 4 mines 50 BTC)
+  Tx(aecf06: peer 8 pays peer 5 1 BTC)
+  Tx(3b5a95: peer 8 pays peer 3 43 BTC)
+  Tx(c284ac: peer 8 pays peer 4 55 BTC)
+
+Block 3, Miner: 5, Hash: 2b55a0
+  Tx(e24b81: Coinbase - peer 5 mines 50 BTC)
+  Tx(aecf06: peer 8 pays peer 5 1 BTC)
+  Tx(3b5a95: peer 8 pays peer 3 43 BTC)
+  Tx(c284ac: peer 8 pays peer 4 55 BTC)
+  Tx(345910: peer 9 pays peer 7 93 BTC)
+  Tx(3b6d42: peer 8 pays peer 4 3 BTC)
+
+Block 4, Miner: 2, Hash: 51c30f
+  Tx(8f5f63: Coinbase - peer 2 mines 50 BTC)
+  Tx(aecf06: peer 8 pays peer 5 1 BTC)
+  Tx(3b5a95: peer 8 pays peer 3 43 BTC)
+  Tx(c284ac: peer 8 pays peer 4 55 BTC)
+  Tx(345910: peer 9 pays peer 7 93 BTC)
+  Tx(3b6d42: peer 8 pays peer 4 3 BTC)
+
+Block 5, Miner: 1, Hash: 360f06
+  Tx(d9419a: Coinbase - peer 1 mines 50 BTC)
+  Tx(aecf06: peer 8 pays peer 5 1 BTC)
+  Tx(3b5a95: peer 8 pays peer 3 43 BTC)
+  Tx(c284ac: peer 8 pays peer 4 55 BTC)
+  Tx(345910: peer 9 pays peer 7 93 BTC)
+  Tx(3b6d42: peer 8 pays peer 4 3 BTC)
+
+Block 6, Miner: 0, Hash: 623b6e
+  Tx(a833d7: Coinbase - peer 0 mines 50 BTC)
+  Tx(aecf06: peer 8 pays peer 5 1 BTC)
+  Tx(3b5a95: peer 8 pays peer 3 43 BTC)
+  Tx(c284ac: peer 8 pays peer 4 55 BTC)
+  Tx(345910: peer 9 pays peer 7 93 BTC)
+  Tx(3b6d42: peer 8 pays peer 4 3 BTC)
+
+Block 7, Miner: 7, Hash: 07d4b2
+  Tx(997b1e: Coinbase - peer 7 mines 50 BTC)
+  Tx(aecf06: peer 8 pays peer 5 1 BTC)
+  Tx(3b5a95: peer 8 pays peer 3 43 BTC)
+  Tx(c284ac: peer 8 pays peer 4 55 BTC)
+  Tx(345910: peer 9 pays peer 7 93 BTC)
+  Tx(3b6d42: peer 8 pays peer 4 3 BTC)
+
+Block 8, Miner: 3, Hash: f52da4
+  Tx(242bfe: Coinbase - peer 3 mines 50 BTC)
+  Tx(aecf06: peer 8 pays peer 5 1 BTC)
+  Tx(3b5a95: peer 8 pays peer 3 43 BTC)
+  Tx(c284ac: peer 8 pays peer 4 55 BTC)
+  Tx(345910: peer 9 pays peer 7 93 BTC)
+  Tx(3b6d42: peer 8 pays peer 4 3 BTC)
+
+Malicious Private Blockchain:
+Chain length: 4
+
+Block 0, Miner: Genesis, Hash: ef3a3e
+
+Block 1, Miner: 8, Hash: e93db1
+  Tx(f47b3a: Coinbase - peer 8 mines 50 BTC)
+  Tx(345910: peer 9 pays peer 7 93 BTC)
+  Tx(145739: peer 9 pays peer 1 20 BTC)
+
+Block 2, Miner: 8, Hash: fdfed1
+  Tx(17de9b: Coinbase - peer 8 mines 50 BTC)
+  Tx(fd7ab1: peer 6 pays peer 9 18 BTC)
+  Tx(d0ff04: peer 4 pays peer 5 21 BTC)
+
+Block 3, Miner: 8, Hash: 045ca5
+  Tx(698645: Coinbase - peer 8 mines 50 BTC)
+  Tx(77c8aa: peer 7 pays peer 6 46 BTC)
+  Tx(aa7721: peer 0 pays peer 7 99 BTC)
+  Tx(ff200d: peer 1 pays peer 6 8 BTC)
+  Tx(e4fb13: peer 3 pays peer 5 66 BTC)
+
+Results:
+Honest blocks mined: 8
+Malicious blocks mined: 3
+Malicious blocks percentage: 27.27%
+Malicious blocks in main chain: 0
+Malicious success rate: 0.00%
+Ring master (Peer 8) coordinated the selfish mining attack

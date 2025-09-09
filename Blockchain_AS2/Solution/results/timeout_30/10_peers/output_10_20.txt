@@ -1,0 +1,138 @@
+Genesis Block Verification:
+Honest Genesis: bd2323
+Malicious Genesis: bd2323
+Blocks are the same: True
+Peer 9 has been selected as the ring master with hash power 2.0
+
+Peer Information:
+Peer 0: Role=Honest, Type=low CPU, Speed=fast
+Peer 1: Role=Honest, Type=low CPU, Speed=fast
+Peer 2: Role=Honest, Type=low CPU, Speed=fast
+Peer 3: Role=Honest, Type=low CPU, Speed=fast
+Peer 4: Role=Honest, Type=low CPU, Speed=fast
+Peer 5: Role=Honest, Type=low CPU, Speed=fast
+Peer 6: Role=Honest, Type=low CPU, Speed=fast
+Peer 7: Role=Honest, Type=low CPU, Speed=fast
+Peer 8: Role=Malicious, Type=high CPU, Speed=fast
+Peer 9: Role=Ring Master, Type=high CPU, Speed=fast
+
+Network Connections:
+Peer 0 is connected to: [7, 2, 5, 3, 6, 4]
+Peer 1 is connected to: [8, 7, 9, 2, 3, 6]
+Peer 2 is connected to: [8, 5, 1, 0, 6, 4]
+Peer 3 is connected to: [8, 9, 5, 1, 0, 6]
+Peer 4 is connected to: [8, 7, 9, 2, 0, 6]
+Peer 5 is connected to: [8, 7, 9, 2, 3, 0]
+Peer 6 is connected to: [2, 3, 1, 0, 4]
+Peer 7 is connected to: [5, 1, 4, 0]
+Peer 8 is connected to: [2, 5, 3, 1, 4]
+Peer 9 is connected to: [5, 1, 4, 3]
+Peer 5 generated Tx(0c4d82: peer 5 pays peer 9 96 BTC) sent to peers [8, 7, 9, 2, 3, 0]
+Peer 1 generated Tx(da5dbc: peer 1 pays peer 8 14 BTC) sent to peers [8, 7, 9, 2, 3, 6]
+Peer 2 mined Block 1, hash: 1c7fea, previous: bd2323
+Ring master 9 mined Block 1 for private chain, hash: f754a6, previous: bd2323
+Selfish mining condition met: Honest chain=1, Malicious chain=1 (from convergence point)
+Peer 0 generated Tx(0d5f36: peer 0 pays peer 5 62 BTC) sent to peers [7, 2, 5, 3, 6, 4]
+Peer 3 mined Block 2, hash: 495ad9, previous: 1c7fea
+Peer 9 generated Tx(ac7ec7: peer 9 pays peer 2 53 BTC) sent to peers [5, 1, 4, 3]
+Peer 9 generated Tx(355d6f: peer 9 pays peer 7 52 BTC) sent to peers [5, 1, 4, 3]
+Peer 9 generated Tx(dcc629: peer 9 pays peer 1 64 BTC) sent to peers [5, 1, 4, 3]
+Peer 1 mined Block 3, hash: ee3c1f, previous: 495ad9
+Peer 9 generated Tx(09513d: peer 9 pays peer 0 33 BTC) sent to peers [5, 1, 4, 3]
+Peer 6 mined Block 4, hash: 11889e, previous: ee3c1f
+Peer 9 generated Tx(a715a6: peer 9 pays peer 3 95 BTC) sent to peers [5, 1, 4, 3]
+Peer 9 generated Tx(cfb47f: peer 9 pays peer 7 1 BTC) sent to peers [5, 1, 4, 3]
+Peer 9 generated Tx(51a706: peer 9 pays peer 8 73 BTC) sent to peers [5, 1, 4, 3]
+Peer 9 generated Tx(ab86d7: peer 9 pays peer 2 66 BTC) sent to peers [5, 1, 4, 3]
+Peer 0 mined Block 5, hash: 737e28, previous: 11889e
+Peer 4 mined Block 6, hash: e52621, previous: 737e28
+Peer 9 generated Tx(75faea: peer 9 pays peer 8 76 BTC) sent to peers [5, 1, 4, 3]
+Peer 9 generated Tx(cd724e: peer 9 pays peer 3 34 BTC) sent to peers [5, 1, 4, 3]
+Peer 9 generated Tx(9e8687: peer 9 pays peer 3 98 BTC) sent to peers [5, 1, 4, 3]
+Peer 9 generated Tx(192a51: peer 9 pays peer 8 80 BTC) sent to peers [5, 1, 4, 3]
+Peer 4 generated Tx(d111e4: peer 4 pays peer 7 41 BTC) sent to peers [8, 7, 9, 2, 0, 6]
+Peer 8 generated Tx(b411d9: peer 8 pays peer 4 5 BTC) sent to peers [2, 5, 3, 1, 4]
+Peer 9 generated Tx(9998fb: peer 9 pays peer 3 92 BTC) sent to peers [5, 1, 4, 3]
+Peer 9 generated Tx(9a4da7: peer 9 pays peer 5 8 BTC) sent to peers [5, 1, 4, 3]
+Peer 6 generated Tx(81dfca: peer 6 pays peer 2 75 BTC) sent to peers [2, 3, 1, 0, 4]
+Ring master 9 mined Block 2 for private chain, hash: 13faaa, previous: f754a6
+Peer 8 generated Tx(265db6: peer 8 pays peer 5 47 BTC) sent to peers [2, 5, 3, 1, 4]
+Peer 3 generated Tx(122040: peer 3 pays peer 1 49 BTC) sent to peers [8, 9, 5, 1, 0, 6]
+Peer 2 generated Tx(d14291: peer 2 pays peer 7 34 BTC) sent to peers [8, 5, 1, 0, 6, 4]
+Peer 7 generated Tx(3d1e84: peer 7 pays peer 0 5 BTC) sent to peers [5, 1, 4, 0]
+Peer 9 generated Tx(54bd88: peer 9 pays peer 6 26 BTC) sent to peers [5, 1, 4, 3]
+
+Simulation completed.
+
+Honest Blockchain:
+Chain length: 7
+
+Block 0, Miner: Genesis, Hash: bd2323
+
+Block 1, Miner: 2, Hash: 1c7fea
+  Tx(50f860: Coinbase - peer 2 mines 50 BTC)
+  Tx(0c4d82: peer 5 pays peer 9 96 BTC)
+  Tx(da5dbc: peer 1 pays peer 8 14 BTC)
+
+Block 2, Miner: 3, Hash: 495ad9
+  Tx(f1b9b9: Coinbase - peer 3 mines 50 BTC)
+  Tx(0c4d82: peer 5 pays peer 9 96 BTC)
+  Tx(da5dbc: peer 1 pays peer 8 14 BTC)
+  Tx(0d5f36: peer 0 pays peer 5 62 BTC)
+
+Block 3, Miner: 1, Hash: ee3c1f
+  Tx(7a6097: Coinbase - peer 1 mines 50 BTC)
+  Tx(0c4d82: peer 5 pays peer 9 96 BTC)
+  Tx(0d5f36: peer 0 pays peer 5 62 BTC)
+  Tx(ac7ec7: peer 9 pays peer 2 53 BTC)
+  Tx(355d6f: peer 9 pays peer 7 52 BTC)
+  Tx(dcc629: peer 9 pays peer 1 64 BTC)
+
+Block 4, Miner: 6, Hash: 11889e
+  Tx(da7ec9: Coinbase - peer 6 mines 50 BTC)
+  Tx(0c4d82: peer 5 pays peer 9 96 BTC)
+  Tx(da5dbc: peer 1 pays peer 8 14 BTC)
+  Tx(0d5f36: peer 0 pays peer 5 62 BTC)
+  Tx(ac7ec7: peer 9 pays peer 2 53 BTC)
+  Tx(355d6f: peer 9 pays peer 7 52 BTC)
+
+Block 5, Miner: 0, Hash: 737e28
+  Tx(2b8599: Coinbase - peer 0 mines 50 BTC)
+  Tx(0c4d82: peer 5 pays peer 9 96 BTC)
+  Tx(da5dbc: peer 1 pays peer 8 14 BTC)
+  Tx(355d6f: peer 9 pays peer 7 52 BTC)
+  Tx(ac7ec7: peer 9 pays peer 2 53 BTC)
+  Tx(dcc629: peer 9 pays peer 1 64 BTC)
+
+Block 6, Miner: 4, Hash: e52621
+  Tx(dda186: Coinbase - peer 4 mines 50 BTC)
+  Tx(0c4d82: peer 5 pays peer 9 96 BTC)
+  Tx(da5dbc: peer 1 pays peer 8 14 BTC)
+  Tx(0d5f36: peer 0 pays peer 5 62 BTC)
+  Tx(ac7ec7: peer 9 pays peer 2 53 BTC)
+  Tx(355d6f: peer 9 pays peer 7 52 BTC)
+
+Malicious Private Blockchain:
+Chain length: 3
+
+Block 0, Miner: Genesis, Hash: bd2323
+
+Block 1, Miner: 9, Hash: f754a6
+  Tx(8c8a07: Coinbase - peer 9 mines 50 BTC)
+  Tx(0c4d82: peer 5 pays peer 9 96 BTC)
+  Tx(da5dbc: peer 1 pays peer 8 14 BTC)
+
+Block 2, Miner: 9, Hash: 13faaa
+  Tx(5e0b77: Coinbase - peer 9 mines 50 BTC)
+  Tx(0d5f36: peer 0 pays peer 5 62 BTC)
+  Tx(d111e4: peer 4 pays peer 7 41 BTC)
+  Tx(b411d9: peer 8 pays peer 4 5 BTC)
+  Tx(81dfca: peer 6 pays peer 2 75 BTC)
+
+Results:
+Honest blocks mined: 6
+Malicious blocks mined: 2
+Malicious blocks percentage: 25.00%
+Malicious blocks in main chain: 0
+Malicious success rate: 0.00%
+Ring master (Peer 9) coordinated the selfish mining attack

@@ -1,0 +1,604 @@
+Genesis Block Verification:
+Honest Genesis: 50371f
+Malicious Genesis: 50371f
+Blocks are the same: True
+Peer 46 has been selected as the ring master with hash power 10.0
+
+Peer Information:
+Peer 0: Role=Honest, Type=low CPU, Speed=slow
+Peer 1: Role=Honest, Type=low CPU, Speed=slow
+Peer 2: Role=Honest, Type=low CPU, Speed=fast
+Peer 3: Role=Honest, Type=low CPU, Speed=fast
+Peer 4: Role=Honest, Type=low CPU, Speed=fast
+Peer 5: Role=Honest, Type=low CPU, Speed=fast
+Peer 6: Role=Honest, Type=low CPU, Speed=fast
+Peer 7: Role=Honest, Type=low CPU, Speed=fast
+Peer 8: Role=Honest, Type=low CPU, Speed=fast
+Peer 9: Role=Honest, Type=low CPU, Speed=fast
+Peer 10: Role=Honest, Type=low CPU, Speed=fast
+Peer 11: Role=Honest, Type=low CPU, Speed=fast
+Peer 12: Role=Honest, Type=low CPU, Speed=fast
+Peer 13: Role=Honest, Type=low CPU, Speed=fast
+Peer 14: Role=Honest, Type=low CPU, Speed=fast
+Peer 15: Role=Honest, Type=low CPU, Speed=fast
+Peer 16: Role=Honest, Type=low CPU, Speed=fast
+Peer 17: Role=Honest, Type=low CPU, Speed=fast
+Peer 18: Role=Honest, Type=low CPU, Speed=fast
+Peer 19: Role=Honest, Type=low CPU, Speed=fast
+Peer 20: Role=Honest, Type=low CPU, Speed=fast
+Peer 21: Role=Honest, Type=low CPU, Speed=fast
+Peer 22: Role=Honest, Type=low CPU, Speed=fast
+Peer 23: Role=Honest, Type=low CPU, Speed=fast
+Peer 24: Role=Honest, Type=low CPU, Speed=fast
+Peer 25: Role=Honest, Type=low CPU, Speed=fast
+Peer 26: Role=Honest, Type=low CPU, Speed=fast
+Peer 27: Role=Honest, Type=low CPU, Speed=fast
+Peer 28: Role=Honest, Type=low CPU, Speed=fast
+Peer 29: Role=Honest, Type=low CPU, Speed=fast
+Peer 30: Role=Honest, Type=low CPU, Speed=fast
+Peer 31: Role=Honest, Type=low CPU, Speed=fast
+Peer 32: Role=Honest, Type=low CPU, Speed=fast
+Peer 33: Role=Honest, Type=low CPU, Speed=fast
+Peer 34: Role=Honest, Type=low CPU, Speed=fast
+Peer 35: Role=Honest, Type=low CPU, Speed=fast
+Peer 36: Role=Honest, Type=low CPU, Speed=fast
+Peer 37: Role=Honest, Type=low CPU, Speed=fast
+Peer 38: Role=Honest, Type=low CPU, Speed=fast
+Peer 39: Role=Honest, Type=low CPU, Speed=fast
+Peer 40: Role=Malicious, Type=high CPU, Speed=fast
+Peer 41: Role=Malicious, Type=high CPU, Speed=fast
+Peer 42: Role=Malicious, Type=high CPU, Speed=fast
+Peer 43: Role=Malicious, Type=high CPU, Speed=fast
+Peer 44: Role=Malicious, Type=high CPU, Speed=fast
+Peer 45: Role=Malicious, Type=high CPU, Speed=fast
+Peer 46: Role=Ring Master, Type=high CPU, Speed=fast
+Peer 47: Role=Malicious, Type=high CPU, Speed=fast
+Peer 48: Role=Malicious, Type=high CPU, Speed=fast
+Peer 49: Role=Malicious, Type=high CPU, Speed=fast
+
+Network Connections:
+Peer 0 is connected to: [25, 23, 36, 34, 4, 27]
+Peer 1 is connected to: [2, 5, 3, 39, 48, 11]
+Peer 2 is connected to: [21, 32, 16, 1, 13, 42]
+Peer 3 is connected to: [5, 12, 22, 1, 4, 42]
+Peer 4 is connected to: [47, 3, 22, 0, 33, 27]
+Peer 5 is connected to: [3, 1, 6, 17, 13, 24]
+Peer 6 is connected to: [38, 5, 45, 41, 11, 24]
+Peer 7 is connected to: [36, 20, 18, 22, 15, 24]
+Peer 8 is connected to: [25, 21, 12, 37, 11, 42]
+Peer 9 is connected to: [49, 16, 45, 28]
+Peer 10 is connected to: [25, 36, 45, 14, 37, 48]
+Peer 11 is connected to: [8, 30, 28, 12, 1, 6]
+Peer 12 is connected to: [8, 18, 3, 43, 11, 24]
+Peer 13 is connected to: [21, 2, 5, 30, 39, 33]
+Peer 14 is connected to: [32, 30, 39, 10, 17, 24]
+Peer 15 is connected to: [38, 7, 45, 28, 43, 44]
+Peer 16 is connected to: [9, 2, 49, 43, 33, 31]
+Peer 17 is connected to: [38, 5, 14, 41, 27, 42]
+Peer 18 is connected to: [40, 7, 49, 12, 37, 35]
+Peer 19 is connected to: [49, 45, 48, 31, 46, 29]
+Peer 20 is connected to: [40, 7, 34, 30, 26, 24]
+Peer 21 is connected to: [8, 13, 2]
+Peer 22 is connected to: [4, 3, 7, 26]
+Peer 23 is connected to: [25, 27, 0, 26]
+Peer 24 is connected to: [7, 5, 20, 14, 12, 6]
+Peer 25 is connected to: [23, 8, 47, 10, 0, 29]
+Peer 26 is connected to: [23, 20, 22, 35, 48, 46]
+Peer 27 is connected to: [23, 17, 4, 0]
+Peer 28 is connected to: [9, 41, 15, 11, 44, 42]
+Peer 29 is connected to: [25, 49, 32, 30, 19, 42]
+Peer 30 is connected to: [36, 20, 14, 11, 29, 13]
+Peer 31 is connected to: [32, 16, 37, 19, 46]
+Peer 32 is connected to: [34, 2, 47, 14, 31, 29]
+Peer 33 is connected to: [16, 4, 13]
+Peer 34 is connected to: [40, 20, 32, 43, 0, 44]
+Peer 35 is connected to: [40, 38, 18, 26, 46]
+Peer 36 is connected to: [7, 47, 30, 10, 0]
+Peer 37 is connected to: [18, 8, 31, 10]
+Peer 38 is connected to: [17, 15, 35, 6]
+Peer 39 is connected to: [1, 14, 13]
+Peer 40 is connected to: [34, 18, 20, 47, 35]
+Peer 41 is connected to: [17, 28, 6]
+Peer 42 is connected to: [8, 2, 28, 3, 17, 29]
+Peer 43 is connected to: [34, 16, 45, 12, 15, 44]
+Peer 44 is connected to: [34, 47, 28, 43, 15]
+Peer 45 is connected to: [9, 43, 10, 19, 6, 15]
+Peer 46 is connected to: [35, 31, 26, 19]
+Peer 47 is connected to: [25, 40, 36, 32, 4, 44]
+Peer 48 is connected to: [1, 26, 10, 19]
+Peer 49 is connected to: [9, 18, 16, 19, 29]
+Peer 42 generated Tx(3cbb2b: peer 42 pays peer 43 74 BTC) sent to peers [8, 2, 28, 3, 17, 29]
+Peer 49 generated Tx(caa91a: peer 49 pays peer 9 93 BTC) sent to peers [9, 18, 16, 19, 29]
+Peer 46 generated Tx(9e2508: peer 46 pays peer 26 88 BTC) sent to peers [35, 31, 26, 19]
+Peer 28 mined Block 1, hash: e9bbb7, previous: 50371f
+Peer 6 mined Block 2, hash: ccaeaf, previous: e9bbb7
+Peer 46 generated Tx(3b55c9: peer 46 pays peer 5 42 BTC) sent to peers [35, 31, 26, 19]
+Peer 7 mined Block 3, hash: 82fa55, previous: ccaeaf
+Peer 15 mined Block 4, hash: 0fae02, previous: 82fa55
+Peer 23 mined Block 5, hash: 9503c1, previous: 0fae02
+Peer 32 mined Block 6, hash: 3c6e31, previous: 9503c1
+Peer 46 generated Tx(469177: peer 46 pays peer 25 10 BTC) sent to peers [35, 31, 26, 19]
+Peer 41 generated Tx(7bd2f9: peer 41 pays peer 24 40 BTC) sent to peers [17, 28, 6]
+Ring master 46 mined Block 1 for private chain, hash: c19fff, previous: 50371f
+Peer 34 mined Block 7, hash: f7eca1, previous: 3c6e31
+Peer 14 mined Block 8, hash: 2b9cbe, previous: f7eca1
+Peer 16 mined Block 9, hash: 83c482, previous: 2b9cbe
+Peer 13 mined Block 10, hash: cc9ede, previous: 83c482
+Peer 27 mined Block 11, hash: b4c2ec, previous: cc9ede
+Peer 39 generated Tx(d7f600: peer 39 pays peer 42 81 BTC) sent to peers [1, 14, 13]
+Peer 36 generated Tx(918053: peer 36 pays peer 26 23 BTC) sent to peers [7, 47, 30, 10, 0]
+Peer 37 mined Block 12, hash: 3d860e, previous: b4c2ec
+Peer 8 mined Block 13, hash: 5217f9, previous: 3d860e
+Peer 29 generated Tx(dc3111: peer 29 pays peer 25 29 BTC) sent to peers [25, 49, 32, 30, 19, 42]
+Peer 33 generated Tx(52f5ec: peer 33 pays peer 40 42 BTC) sent to peers [16, 4, 13]
+Peer 18 generated Tx(7c00cd: peer 18 pays peer 33 2 BTC) sent to peers [40, 7, 49, 12, 37, 35]
+Peer 4 mined Block 14, hash: e8cda3, previous: 5217f9
+Peer 22 mined Block 15, hash: b6cc79, previous: e8cda3
+Peer 2 mined Block 16, hash: a99754, previous: b6cc79
+Peer 12 mined Block 17, hash: 314b69, previous: a99754
+Peer 10 mined Block 18, hash: 69609b, previous: 314b69
+Peer 24 mined Block 19, hash: be6cb6, previous: 69609b
+Peer 9 generated Tx(5d8dee: peer 9 pays peer 45 22 BTC) sent to peers [49, 16, 45, 28]
+Peer 46 generated Tx(481514: peer 46 pays peer 40 64 BTC) sent to peers [35, 31, 26, 19]
+Peer 27 generated Tx(73fe6e: peer 27 pays peer 37 95 BTC) sent to peers [23, 17, 4, 0]
+Ring master 46 mined Block 2 for private chain, hash: 0eb4a1, previous: c19fff
+Ring master 46 mined Block 3 for private chain, hash: b0efdc, previous: 0eb4a1
+Peer 35 generated Tx(3293fa: peer 35 pays peer 36 79 BTC) sent to peers [40, 38, 18, 26, 46]
+Peer 8 generated Tx(80da1f: peer 8 pays peer 25 62 BTC) sent to peers [25, 21, 12, 37, 11, 42]
+Peer 3 generated Tx(b16567: peer 3 pays peer 2 74 BTC) sent to peers [5, 12, 22, 1, 4, 42]
+Peer 7 generated Tx(d24fcd: peer 7 pays peer 5 89 BTC) sent to peers [36, 20, 18, 22, 15, 24]
+Peer 11 mined Block 20, hash: 8230a4, previous: be6cb6
+Peer 34 generated Tx(dac560: peer 34 pays peer 12 17 BTC) sent to peers [40, 20, 32, 43, 0, 44]
+Peer 3 mined Block 21, hash: 35407a, previous: 8230a4
+Peer 22 generated Tx(2f17dd: peer 22 pays peer 12 19 BTC) sent to peers [4, 3, 7, 26]
+Peer 31 mined Block 22, hash: 4076b1, previous: 35407a
+Peer 5 mined Block 23, hash: c893a5, previous: 4076b1
+Peer 43 generated Tx(3cb5ee: peer 43 pays peer 25 52 BTC) sent to peers [34, 16, 45, 12, 15, 44]
+Peer 46 generated Tx(b95265: peer 46 pays peer 34 72 BTC) sent to peers [35, 31, 26, 19]
+Peer 46 generated Tx(e9219b: peer 46 pays peer 27 29 BTC) sent to peers [35, 31, 26, 19]
+Peer 45 generated Tx(17b52c: peer 45 pays peer 27 52 BTC) sent to peers [9, 43, 10, 19, 6, 15]
+Peer 21 mined Block 24, hash: 15acd8, previous: c893a5
+Peer 30 generated Tx(daff65: peer 30 pays peer 17 55 BTC) sent to peers [36, 20, 14, 11, 29, 13]
+Peer 9 mined Block 25, hash: 833335, previous: 15acd8
+Peer 30 mined Block 26, hash: 90a24b, previous: 833335
+Peer 5 generated Tx(40fb1f: peer 5 pays peer 41 60 BTC) sent to peers [3, 1, 6, 17, 13, 24]
+Peer 32 generated Tx(b7ba9d: peer 32 pays peer 11 73 BTC) sent to peers [34, 2, 47, 14, 31, 29]
+Peer 25 generated Tx(cfab31: peer 25 pays peer 11 69 BTC) sent to peers [23, 8, 47, 10, 0, 29]
+Peer 21 generated Tx(be8347: peer 21 pays peer 32 72 BTC) sent to peers [8, 13, 2]
+Peer 38 mined Block 27, hash: 8c1028, previous: 90a24b
+Peer 13 generated Tx(224004: peer 13 pays peer 14 25 BTC) sent to peers [21, 2, 5, 30, 39, 33]
+Peer 25 mined Block 28, hash: 75c91b, previous: 8c1028
+Peer 20 mined Block 29, hash: 89a97a, previous: 75c91b
+Peer 11 generated Tx(cde4be: peer 11 pays peer 6 18 BTC) sent to peers [8, 30, 28, 12, 1, 6]
+Ring master 46 mined Block 4 for private chain, hash: f81b97, previous: b0efdc
+Peer 26 mined Block 30, hash: c23b2f, previous: 89a97a
+Peer 39 mined Block 31, hash: 774eac, previous: c23b2f
+Peer 6 generated Tx(e842f9: peer 6 pays peer 15 67 BTC) sent to peers [38, 5, 45, 41, 11, 24]
+Peer 31 generated Tx(5f14d4: peer 31 pays peer 0 63 BTC) sent to peers [32, 16, 37, 19, 46]
+Peer 46 generated Tx(f36e05: peer 46 pays peer 44 12 BTC) sent to peers [35, 31, 26, 19]
+Peer 19 mined Block 32, hash: f1fb7e, previous: 774eac
+Peer 4 generated Tx(e70983: peer 4 pays peer 9 12 BTC) sent to peers [47, 3, 22, 0, 33, 27]
+Peer 24 generated Tx(a7a016: peer 24 pays peer 32 26 BTC) sent to peers [7, 5, 20, 14, 12, 6]
+Ring master 46 mined Block 5 for private chain, hash: ed71b6, previous: f81b97
+Peer 17 mined Block 33, hash: 1a98b9, previous: f1fb7e
+Peer 35 mined Block 34, hash: 17e4f1, previous: 1a98b9
+Peer 0 mined Block 35, hash: e60f6b, previous: 17e4f1
+Peer 46 generated Tx(b2dc1a: peer 46 pays peer 0 10 BTC) sent to peers [35, 31, 26, 19]
+Peer 46 generated Tx(e052ef: peer 46 pays peer 14 21 BTC) sent to peers [35, 31, 26, 19]
+Peer 15 generated Tx(ba5a25: peer 15 pays peer 49 4 BTC) sent to peers [38, 7, 45, 28, 43, 44]
+Peer 49 generated Tx(32a008: peer 49 pays peer 12 30 BTC) sent to peers [9, 18, 16, 19, 29]
+Peer 36 mined Block 36, hash: 70e408, previous: e60f6b
+Peer 45 generated Tx(ccb162: peer 45 pays peer 4 73 BTC) sent to peers [9, 43, 10, 19, 6, 15]
+Peer 1 mined Block 37, hash: c0000c, previous: 70e408
+Peer 41 generated Tx(2fe10c: peer 41 pays peer 44 91 BTC) sent to peers [17, 28, 6]
+Peer 40 generated Tx(68709c: peer 40 pays peer 31 10 BTC) sent to peers [34, 18, 20, 47, 35]
+Peer 46 generated Tx(6db672: peer 46 pays peer 49 100 BTC) sent to peers [35, 31, 26, 19]
+Peer 48 generated Tx(5d7285: peer 48 pays peer 23 74 BTC) sent to peers [1, 26, 10, 19]
+Peer 43 generated Tx(77f077: peer 43 pays peer 39 42 BTC) sent to peers [34, 16, 45, 12, 15, 44]
+Peer 42 generated Tx(1d13d2: peer 42 pays peer 23 98 BTC) sent to peers [8, 2, 28, 3, 17, 29]
+Peer 44 generated Tx(64d285: peer 44 pays peer 15 83 BTC) sent to peers [34, 47, 28, 43, 15]
+Peer 26 generated Tx(b03afe: peer 26 pays peer 42 33 BTC) sent to peers [23, 20, 22, 35, 48, 46]
+Peer 46 generated Tx(9a1d2e: peer 46 pays peer 9 37 BTC) sent to peers [35, 31, 26, 19]
+Ring master 46 mined Block 6 for private chain, hash: e3555a, previous: ed71b6
+Peer 10 generated Tx(fd6ba1: peer 10 pays peer 30 60 BTC) sent to peers [25, 36, 45, 14, 37, 48]
+Peer 16 generated Tx(e56edd: peer 16 pays peer 47 56 BTC) sent to peers [9, 2, 49, 43, 33, 31]
+Peer 46 generated Tx(66be8c: peer 46 pays peer 6 14 BTC) sent to peers [35, 31, 26, 19]
+Peer 12 generated Tx(01f9c2: peer 12 pays peer 40 34 BTC) sent to peers [8, 18, 3, 43, 11, 24]
+Peer 19 generated Tx(87acc0: peer 19 pays peer 41 4 BTC) sent to peers [49, 45, 48, 31, 46, 29]
+Ring master 46 mined Block 7 for private chain, hash: 7c7fce, previous: e3555a
+Peer 38 generated Tx(e05c32: peer 38 pays peer 18 63 BTC) sent to peers [17, 15, 35, 6]
+Peer 28 generated Tx(8ae38f: peer 28 pays peer 37 85 BTC) sent to peers [9, 41, 15, 11, 44, 42]
+Peer 2 generated Tx(4e4fa5: peer 2 pays peer 45 68 BTC) sent to peers [21, 32, 16, 1, 13, 42]
+Peer 46 generated Tx(544f5f: peer 46 pays peer 49 29 BTC) sent to peers [35, 31, 26, 19]
+Peer 18 mined Block 38, hash: a4a2aa, previous: c0000c
+Peer 47 generated Tx(fc5f8e: peer 47 pays peer 21 40 BTC) sent to peers [25, 40, 36, 32, 4, 44]
+Peer 17 generated Tx(f59c4a: peer 17 pays peer 18 35 BTC) sent to peers [38, 5, 14, 41, 27, 42]
+Peer 46 generated Tx(dd9eb9: peer 46 pays peer 16 22 BTC) sent to peers [35, 31, 26, 19]
+Peer 23 generated Tx(2a6a82: peer 23 pays peer 14 65 BTC) sent to peers [25, 27, 0, 26]
+Peer 44 generated Tx(e6322f: peer 44 pays peer 49 95 BTC) sent to peers [34, 47, 28, 43, 15]
+Peer 1 generated Tx(ac9c6c: peer 1 pays peer 41 2 BTC) sent to peers [2, 5, 3, 39, 48, 11]
+Ring master 46 mined Block 8 for private chain, hash: 0378ad, previous: 7c7fce
+Peer 14 generated Tx(1b3073: peer 14 pays peer 35 59 BTC) sent to peers [32, 30, 39, 10, 17, 24]
+Peer 40 generated Tx(7cc756: peer 40 pays peer 6 66 BTC) sent to peers [34, 18, 20, 47, 35]
+Peer 0 generated Tx(0fcad5: peer 0 pays peer 40 31 BTC) sent to peers [25, 23, 36, 34, 4, 27]
+Peer 48 generated Tx(2d063f: peer 48 pays peer 22 87 BTC) sent to peers [1, 26, 10, 19]
+Peer 46 generated Tx(5e0968: peer 46 pays peer 36 82 BTC) sent to peers [35, 31, 26, 19]
+Peer 20 generated Tx(5af2a5: peer 20 pays peer 32 71 BTC) sent to peers [40, 7, 34, 30, 26, 24]
+Peer 37 generated Tx(7824fb: peer 37 pays peer 27 3 BTC) sent to peers [18, 8, 31, 10]
+Ring master 46 mined Block 9 for private chain, hash: 1d71a3, previous: 0378ad
+Peer 47 generated Tx(3c7e82: peer 47 pays peer 41 69 BTC) sent to peers [25, 40, 36, 32, 4, 44]
+
+Simulation completed.
+
+Honest Blockchain:
+Chain length: 39
+
+Block 0, Miner: Genesis, Hash: 50371f
+
+Block 1, Miner: 28, Hash: e9bbb7
+  Tx(45eb10: Coinbase - peer 28 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+
+Block 2, Miner: 6, Hash: ccaeaf
+  Tx(09d2d1: Coinbase - peer 6 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+
+Block 3, Miner: 7, Hash: 82fa55
+  Tx(0fccde: Coinbase - peer 7 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+
+Block 4, Miner: 15, Hash: 0fae02
+  Tx(fd71f9: Coinbase - peer 15 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+
+Block 5, Miner: 23, Hash: 9503c1
+  Tx(ff5310: Coinbase - peer 23 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+
+Block 6, Miner: 32, Hash: 3c6e31
+  Tx(9bdae0: Coinbase - peer 32 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+
+Block 7, Miner: 34, Hash: f7eca1
+  Tx(375068: Coinbase - peer 34 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+
+Block 8, Miner: 14, Hash: 2b9cbe
+  Tx(9b37b9: Coinbase - peer 14 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 9, Miner: 16, Hash: 83c482
+  Tx(b4e7d8: Coinbase - peer 16 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 10, Miner: 13, Hash: cc9ede
+  Tx(da7378: Coinbase - peer 13 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 11, Miner: 27, Hash: b4c2ec
+  Tx(923f0b: Coinbase - peer 27 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 12, Miner: 37, Hash: 3d860e
+  Tx(fca3b1: Coinbase - peer 37 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 13, Miner: 8, Hash: 5217f9
+  Tx(81263f: Coinbase - peer 8 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 14, Miner: 4, Hash: e8cda3
+  Tx(4fff17: Coinbase - peer 4 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 15, Miner: 22, Hash: b6cc79
+  Tx(9ec863: Coinbase - peer 22 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 16, Miner: 2, Hash: a99754
+  Tx(c147cd: Coinbase - peer 2 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 17, Miner: 12, Hash: 314b69
+  Tx(53b4f1: Coinbase - peer 12 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 18, Miner: 10, Hash: 69609b
+  Tx(c569b0: Coinbase - peer 10 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 19, Miner: 24, Hash: be6cb6
+  Tx(b533dd: Coinbase - peer 24 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 20, Miner: 11, Hash: 8230a4
+  Tx(f3b47e: Coinbase - peer 11 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(7bd2f9: peer 41 pays peer 24 40 BTC)
+
+Block 21, Miner: 3, Hash: 35407a
+  Tx(c1bca1: Coinbase - peer 3 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 22, Miner: 31, Hash: 4076b1
+  Tx(78fc41: Coinbase - peer 31 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 23, Miner: 5, Hash: c893a5
+  Tx(486b32: Coinbase - peer 5 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 24, Miner: 21, Hash: 15acd8
+  Tx(d28629: Coinbase - peer 21 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 25, Miner: 9, Hash: 833335
+  Tx(a6a375: Coinbase - peer 9 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 26, Miner: 30, Hash: 90a24b
+  Tx(f1d465: Coinbase - peer 30 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 27, Miner: 38, Hash: 8c1028
+  Tx(50eb57: Coinbase - peer 38 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 28, Miner: 25, Hash: 75c91b
+  Tx(277c2a: Coinbase - peer 25 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 29, Miner: 20, Hash: 89a97a
+  Tx(e803b1: Coinbase - peer 20 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 30, Miner: 26, Hash: c23b2f
+  Tx(7fa1ef: Coinbase - peer 26 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 31, Miner: 39, Hash: 774eac
+  Tx(ede2a2: Coinbase - peer 39 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 32, Miner: 19, Hash: f1fb7e
+  Tx(3a07ed: Coinbase - peer 19 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 33, Miner: 17, Hash: 1a98b9
+  Tx(3a56c0: Coinbase - peer 17 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(7bd2f9: peer 41 pays peer 24 40 BTC)
+
+Block 34, Miner: 35, Hash: 17e4f1
+  Tx(f6830e: Coinbase - peer 35 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 35, Miner: 0, Hash: e60f6b
+  Tx(35cc44: Coinbase - peer 0 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 36, Miner: 36, Hash: 70e408
+  Tx(8e0063: Coinbase - peer 36 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 37, Miner: 1, Hash: c0000c
+  Tx(150a7a: Coinbase - peer 1 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Block 38, Miner: 18, Hash: a4a2aa
+  Tx(b472c5: Coinbase - peer 18 mines 50 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(9e2508: peer 46 pays peer 26 88 BTC)
+  Tx(3b55c9: peer 46 pays peer 5 42 BTC)
+  Tx(469177: peer 46 pays peer 25 10 BTC)
+
+Malicious Private Blockchain:
+Chain length: 10
+
+Block 0, Miner: Genesis, Hash: 50371f
+
+Block 1, Miner: 46, Hash: c19fff
+  Tx(6e9c32: Coinbase - peer 46 mines 50 BTC)
+  Tx(3cbb2b: peer 42 pays peer 43 74 BTC)
+  Tx(caa91a: peer 49 pays peer 9 93 BTC)
+
+Block 2, Miner: 46, Hash: 0eb4a1
+  Tx(99f4dc: Coinbase - peer 46 mines 50 BTC)
+  Tx(7bd2f9: peer 41 pays peer 24 40 BTC)
+  Tx(d7f600: peer 39 pays peer 42 81 BTC)
+  Tx(dc3111: peer 29 pays peer 25 29 BTC)
+  Tx(918053: peer 36 pays peer 26 23 BTC)
+  Tx(52f5ec: peer 33 pays peer 40 42 BTC)
+
+Block 3, Miner: 46, Hash: b0efdc
+  Tx(fa829c: Coinbase - peer 46 mines 50 BTC)
+  Tx(5d8dee: peer 9 pays peer 45 22 BTC)
+  Tx(73fe6e: peer 27 pays peer 37 95 BTC)
+
+Block 4, Miner: 46, Hash: f81b97
+  Tx(12c231: Coinbase - peer 46 mines 50 BTC)
+  Tx(3293fa: peer 35 pays peer 36 79 BTC)
+  Tx(80da1f: peer 8 pays peer 25 62 BTC)
+  Tx(b16567: peer 3 pays peer 2 74 BTC)
+  Tx(d24fcd: peer 7 pays peer 5 89 BTC)
+  Tx(dac560: peer 34 pays peer 12 17 BTC)
+
+Block 5, Miner: 46, Hash: ed71b6
+  Tx(406461: Coinbase - peer 46 mines 50 BTC)
+  Tx(cde4be: peer 11 pays peer 6 18 BTC)
+  Tx(5f14d4: peer 31 pays peer 0 63 BTC)
+  Tx(e842f9: peer 6 pays peer 15 67 BTC)
+  Tx(e70983: peer 4 pays peer 9 12 BTC)
+  Tx(a7a016: peer 24 pays peer 32 26 BTC)
+
+Block 6, Miner: 46, Hash: e3555a
+  Tx(c8e92c: Coinbase - peer 46 mines 50 BTC)
+  Tx(ba5a25: peer 15 pays peer 49 4 BTC)
+  Tx(32a008: peer 49 pays peer 12 30 BTC)
+  Tx(ccb162: peer 45 pays peer 4 73 BTC)
+  Tx(2fe10c: peer 41 pays peer 44 91 BTC)
+  Tx(68709c: peer 40 pays peer 31 10 BTC)
+
+Block 7, Miner: 46, Hash: 7c7fce
+  Tx(8f2b56: Coinbase - peer 46 mines 50 BTC)
+  Tx(64d285: peer 44 pays peer 15 83 BTC)
+  Tx(fd6ba1: peer 10 pays peer 30 60 BTC)
+  Tx(e56edd: peer 16 pays peer 47 56 BTC)
+  Tx(01f9c2: peer 12 pays peer 40 34 BTC)
+  Tx(87acc0: peer 19 pays peer 41 4 BTC)
+
+Block 8, Miner: 46, Hash: 0378ad
+  Tx(ee18ab: Coinbase - peer 46 mines 50 BTC)
+  Tx(e05c32: peer 38 pays peer 18 63 BTC)
+  Tx(8ae38f: peer 28 pays peer 37 85 BTC)
+  Tx(4e4fa5: peer 2 pays peer 45 68 BTC)
+  Tx(fc5f8e: peer 47 pays peer 21 40 BTC)
+  Tx(f59c4a: peer 17 pays peer 18 35 BTC)
+
+Block 9, Miner: 46, Hash: 1d71a3
+  Tx(eb618b: Coinbase - peer 46 mines 50 BTC)
+  Tx(1b3073: peer 14 pays peer 35 59 BTC)
+  Tx(7cc756: peer 40 pays peer 6 66 BTC)
+  Tx(0fcad5: peer 0 pays peer 40 31 BTC)
+  Tx(2d063f: peer 48 pays peer 22 87 BTC)
+  Tx(5af2a5: peer 20 pays peer 32 71 BTC)
+
+Results:
+Honest blocks mined: 38
+Malicious blocks mined: 9
+Malicious blocks percentage: 19.15%
+Malicious blocks in main chain: 0
+Malicious success rate: 0.00%
+Ring master (Peer 46) coordinated the selfish mining attack
